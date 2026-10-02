@@ -1,0 +1,11 @@
+member_id,display_name,unit,assignment,active,revision
+LC-101,Rowan Pike,Operations,Mapping Lead,yes,1
+LC-102,Mei Calder,Logistics,Cache Runner,yes,1
+LC-102,Mei Calder,Logistics,Supply Lead,yes,2
+LC-103,Tomas Reed,Medical,Triage Lead,no,1
+LC-104,Imani Frost,Safety,Gate Marshal,yes,1
+LC-105,Leif Arden,Comms,Radio Watch,yes,1
+LC-106,Sora Quinn,Navigation,Route Scout,yes,1
+LC-107,Dev Malik,Medical,First Aid,yes,1
+LC-107,Dev Malik,Medical,First Aid,yes,2
+LC-X,Malformed Entry,Operations,Observer,yes,1
