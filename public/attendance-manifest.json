@@ -1,0 +1,73 @@
+{
+  "as_of": "2081-06-10T18:00:00Z",
+  "summary": {
+    "scoped_members": 6,
+    "confirmed": 4,
+    "pending": 1,
+    "declined": 1,
+    "eligible_receipts": 11,
+    "superseded_receipts": 5
+  },
+  "members": [
+    {
+      "member_id": "LC-101",
+      "display_name": "Rowan Pike",
+      "unit": "Operations",
+      "assignment": "Mapping Lead",
+      "attendance": "confirmed",
+      "reason": null,
+      "deciding_receipt_id": "AR-0010",
+      "responded_at": "2081-06-10T17:00:00Z"
+    },
+    {
+      "member_id": "LC-102",
+      "display_name": "Mei Calder",
+      "unit": "Logistics",
+      "assignment": "Supply Lead",
+      "attendance": "confirmed",
+      "reason": null,
+      "deciding_receipt_id": "AR-0003",
+      "responded_at": "2081-06-09T10:00:00Z"
+    },
+    {
+      "member_id": "LC-104",
+      "display_name": "Imani Frost",
+      "unit": "Safety",
+      "assignment": "Gate Marshal",
+      "attendance": "declined",
+      "reason": "Safety desk coverage",
+      "deciding_receipt_id": "AR-0004",
+      "responded_at": "2081-06-10T12:00:00Z"
+    },
+    {
+      "member_id": "LC-105",
+      "display_name": "Leif Arden",
+      "unit": "Comms",
+      "assignment": "Radio Watch",
+      "attendance": "pending",
+      "reason": null,
+      "deciding_receipt_id": "AR-0005",
+      "responded_at": "2081-06-09T08:05:00Z"
+    },
+    {
+      "member_id": "LC-106",
+      "display_name": "Sora Quinn",
+      "unit": "Navigation",
+      "assignment": "Route Scout",
+      "attendance": "confirmed",
+      "reason": null,
+      "deciding_receipt_id": "AR-0006",
+      "responded_at": "2081-06-09T08:30:00Z"
+    },
+    {
+      "member_id": "LC-107",
+      "display_name": "Dev Malik",
+      "unit": "Medical",
+      "assignment": "First Aid",
+      "attendance": "confirmed",
+      "reason": null,
+      "deciding_receipt_id": "AR-0007",
+      "responded_at": "2081-06-10T07:00:00Z"
+    }
+  ]
+}
